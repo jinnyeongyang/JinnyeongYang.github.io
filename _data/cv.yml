@@ -4,7 +4,7 @@ cv:
   label: MS Student, KAIST
   email: jinnyeong6118@kaist.ac.kr
   phone: # left off the public site for privacy — add back if you want it shown
-  url: https://taekbaeajossi.github.io
+  url: https://jinnyeongyang.github.io
   location: Daejeon, South Korea
   image: ""
   summary: >
@@ -14,7 +14,7 @@ cv:
 
   social_networks:
     - network: GitHub
-      username: taekbaeajossi
+      username: jinnyeongyang
     # - network: LinkedIn
     #   username: # TODO: your LinkedIn username (the part after /in/), if you have one
 
