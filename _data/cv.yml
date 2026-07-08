@@ -49,18 +49,23 @@ cv:
         highlights:
           - Graduated Magna Cum Laude
 
-    Research Experience:
-      - company: Sponsored by 42dot
-        position: Project Member
+    # NOTE: the al_folio_cv renderer only renders a work section named exactly "Experience"
+    # (or "Volunteer") with the position/company/highlights renderer. Other names fall back
+    # to a generic renderer that only shows bullet/label entries, so keep this key "Experience".
+    Experience:
+      - position: Project Member
+        company: Development of data augmentation and sensor fusion technology for robust autonomous driving
         start_date: 2024-12
         end_date: 2025-11
-        summary: Development of data augmentation and sensor fusion technology for robust autonomous driving.
+        highlights:
+          - Sponsored by 42dot
 
-      - company: Sponsored by GS E&C
-        position: Project Member
+      - position: Project Member
+        company: Agentic Vision-Language Navigation Models
         start_date: 2026-01
         end_date: 2026-12
-        summary: Agentic Vision-Language Navigation Models.
+        highlights:
+          - Sponsored by GS E&C
 
     Publications:
       - title: "FrozenDrive: Zero-Shot Text-Guided Driving Scene Generation and Data Augmentation with Parameter-Free Frozen Diffusion Model"
