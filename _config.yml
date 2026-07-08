@@ -214,7 +214,7 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ["_pages"]
+include: ["_pages", ".nojekyll"] # .nojekyll must reach _site so GitHub Pages serves the built site as-is (no re-run of Jekyll on gh-pages)
 exclude:
   - al-folio-upgrade-report.md
   - bin/
