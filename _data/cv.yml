@@ -15,8 +15,8 @@ cv:
   social_networks:
     - network: GitHub
       username: jinnyeongyang
-    # - network: LinkedIn
-    #   username: # TODO: your LinkedIn username (the part after /in/), if you have one
+    - network: LinkedIn
+      username: jinnyeong-yang-28a480353
 
   address:
     street: "ME Building (N7-4) #5123, 291 Daehak-ro, Yuseong-gu"
