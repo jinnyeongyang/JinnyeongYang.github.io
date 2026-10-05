@@ -7,4 +7,4 @@ linkedin_username: jinnyeong-yang-28a480353
 scholar_userid: 7tiuO6oAAAAJ
 # orcid_id: # TODO: e.g. 0000-0000-0000-0000
 # x_username: # TODO: your X/Twitter handle
-rss_icon: false # set true to show the RSS icon
+# rss_icon: true # uncomment to show an RSS icon (jekyll-socials shows it whenever this key exists, even if false)

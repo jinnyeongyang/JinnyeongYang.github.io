@@ -14,7 +14,7 @@ profile:
     <p>Daejeon 34141, South Korea</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # social icons are shown in the top navbar instead (enable_navbar_social in _config.yml)
 
 announcements:
   enabled: true # includes a list of news items
@@ -37,4 +37,18 @@ observability. I have also worked on text-guided driving scene generation and da
 generative models, as well as automatic 4D LiDAR annotation using foundation models.
 
 You can find my [publications](/publications/) here and my full [CV](/cv/) as well. Feel free to
-reach out by email or any of the links below.
+reach out by email or any of the links at the top of the page.
+
+<!-- clear: both keeps the heading and table together below the profile photo -->
+<h2 style="clear: both">honors &amp; awards</h2>
+
+<div class="news">
+  <div class="table-responsive">
+    <table class="table table-sm table-borderless">
+      <tr><th scope="row" style="width: 20%">2026</th><td>Kia Scholarship Foundation Scholarship</td></tr>
+      <tr><th scope="row" style="width: 20%">2025</th><td>Magna Cum Laude, Korea University</td></tr>
+      <tr><th scope="row" style="width: 20%">2024</th><td>IMM Hope Foundation Scholarship</td></tr>
+      <tr><th scope="row" style="width: 20%">2021</th><td>2nd Place, Beginner Division, 19th Korea Robot Aircraft Competition</td></tr>
+    </table>
+  </div>
+</div>
