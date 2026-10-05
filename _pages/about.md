@@ -28,13 +28,13 @@ latest_posts:
 ---
 
 Hi, I'm **Jinnyeong Yang**, a Master's student in the Division of Future Vehicle at
-[KAIST](https://www.kaist.ac.kr/en/), advised by Professor **Kuk-Jin Yoon**. I completed my
-B.S. in Mechanical Engineering at Korea University, graduating *Magna Cum Laude*.
+[KAIST](https://www.kaist.ac.kr/en/), advised by Professor **Kuk-Jin Yoon**. I received my
+B.S. in Mechanical Engineering from Korea University, graduating *Magna Cum Laude*.
 
 My research interests lie in **multi-agent reinforcement learning**, **cooperative AI**, and
-**zero-shot coordination**. I currently work on coordination with unfamiliar partners under partial
-observability. I have also worked on text-guided driving scene generation and data augmentation with
-generative models, and on automatic 4D LiDAR annotation using foundation models.
+**zero-shot coordination**. Recently, I worked on coordination with unfamiliar partners under partial
+observability. I have also worked on text-guided driving scene generation and data augmentation using
+generative models, as well as automatic 4D LiDAR annotation using foundation models.
 
 You can find my [publications](/publications/) here and my full [CV](/cv/) as well. Feel free to
 reach out by email or any of the links below.
