@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: MS Student, <a href='https://www.kaist.ac.kr/en/'>KAIST</a> · Advised by Kuk-Jin Yoon · Multi-Agent RL &amp; Cooperative AI
+subtitle: MS Student, <a href='https://www.kaist.ac.kr/en/'>KAIST</a> · Advised by Kuk-Jin Yoon · Multi-Agent Systems &amp; Cooperative AI
 
 profile:
   align: right
