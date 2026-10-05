@@ -17,6 +17,8 @@ cv:
       username: jinnyeongyang
     - network: LinkedIn
       username: jinnyeong-yang-28a480353
+    - network: Google Scholar
+      username: 7tiuO6oAAAAJ
 
   address:
     street: "ME Building (N7-4) #5123, 291 Daehak-ro, Yuseong-gu"
@@ -128,6 +130,8 @@ cv:
         date: 2025
       - title: IMM Hope Foundation Scholarship
         date: 2024
+      - title: 2nd Place, Beginner Division, 19th Korea Robot Aircraft Competition
+        date: 2021
 
     Languages:
       - name: Korean
