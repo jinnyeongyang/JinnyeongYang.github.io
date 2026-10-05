@@ -9,8 +9,8 @@ cv:
   image: ""
   summary: >
     MS student in the Division of Future Vehicle at KAIST, advised by Kuk-Jin Yoon.
-    Research interests: computer vision, deep learning, generative models, and
-    multi-agent reinforcement learning.
+    Research interests: multi-agent reinforcement learning, cooperative AI, and
+    zero-shot coordination.
 
   social_networks:
     - network: GitHub
@@ -41,7 +41,7 @@ cv:
       - institution: Korea University
         location: Seoul, South Korea
         url: https://www.korea.edu/
-        area: School of Mechanical Engineering
+        area: Mechanical Engineering
         studyType: BS
         start_date: 2020-03
         end_date: 2025-02
@@ -53,6 +53,16 @@ cv:
     # (or "Volunteer") with the position/company/highlights renderer. Other names fall back
     # to a generic renderer that only shows bullet/label entries, so keep this key "Experience".
     Experience:
+      - position: Graduate Researcher
+        company: Visual Intelligence Lab, KAIST
+        location: Daejeon, South Korea
+        start_date: 2025-02
+        end_date: present
+        highlights:
+          - "Advisor: Prof. Kuk-Jin Yoon"
+          - Research on multi-agent reinforcement learning and coordination with unfamiliar partners under partial observability.
+          - Research on text-guided driving scene generation and data augmentation using generative models, as well as automatic 4D LiDAR annotation using foundation models.
+
       - position: Project Member
         company: Development of data augmentation and sensor fusion technology for robust autonomous driving
         start_date: 2024-12
@@ -63,7 +73,7 @@ cv:
       - position: Project Member
         company: Agentic Vision-Language Navigation Models
         start_date: 2026-01
-        end_date: 2026-12
+        end_date: 2026-09
         highlights:
           - Sponsored by GS E&C
 
@@ -81,7 +91,7 @@ cv:
         publisher: European Conference on Computer Vision (ECCV)
         releaseDate: 2026
 
-      - title: "Learning Interactive 4D LiDAR Segmentation without Manual Annotation"
+      - title: "Bootstrapping a 4D LiDAR Annotation Tool from Video Foundation Models"
         authors:
           - Jihun Kim*
           - Hyun-Kurl Jang*
@@ -89,16 +99,24 @@ cv:
           - Jinnyeong Yang*
           - Hyeokjun Kweon
           - Kuk-Jin Yoon
-        publisher: European Conference on Computer Vision Workshops (ECCVW), CDEL, Oral
+        publisher: ECCV 2026 Workshop on Curated Data for Efficient Learning (CDEL), Oral
         releaseDate: 2026
 
-      - title: "Zero-Shot Coordination under Partial Observability by Predicting Intention of Partner"
+      - title: "Partially Observable Zero-shot Coordination by Predicting Intention of Partner"
         authors:
+          - Jinnyeong Yang*
           - Yuhwan Jeong*
           - Hoyong Kwon*
-          - Jinnyeong Yang*
           - Minseok Kim
           - Jihun Kim
+          - Kuk-Jin Yoon
+        publisher: Under review
+        releaseDate: 2026
+
+      - title: "Do LLMs Act on What They Know? From Partner Representations to Cooperative Actions"
+        authors:
+          - Yuhwan Jeong*
+          - Jinnyeong Yang*
           - Kuk-Jin Yoon
         publisher: Under review
         releaseDate: 2026
