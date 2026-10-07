@@ -36,6 +36,9 @@ My research interests lie in **multi-agent reinforcement learning**, **cooperati
 observability. I have also worked on text-guided driving scene generation and data augmentation using
 generative models, as well as automatic 4D LiDAR annotation using foundation models.
 
+**I am currently looking for Ph.D. opportunities** in multi-agent systems and cooperative AI.
+If you think I would be a good fit for your group, please feel free to contact me.
+
 You can find my [publications](/publications/) here and my full [CV](/cv/) as well. Feel free to
 reach out by email or any of the links at the top of the page.
 
